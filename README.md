@@ -1,38 +1,32 @@
-<a href="https://shalombaby666.github.io/"><img src="https://shalombaby666.github.io/assets/profile-banner.png" alt="Денис — пишу код, собираю миры" width="1200"></a>
+<a href="https://shalombaby666.github.io/"><img src="https://shalombaby666.github.io/assets/profile-banner.png" alt="Денис — данные и системы" width="1200"></a>
 
 ### Привет, я Денис
 
-Собираю браузерные проекты, работаю с данными и экспериментирую с интерфейсами. Люблю, когда идею можно не только описать, но и открыть в браузере.
+Мне 18 лет, учусь на втором курсе по направлению бизнес-аналитики. Ищу первую работу **аналитиком данных или системным аналитиком**.
 
-**[Портфолио ↗](https://shalombaby666.github.io/)　[Резюме ↗](https://shalombaby666.github.io/resume.html)　[PDF ↗](https://shalombaby666.github.io/denis-resume.pdf)**
+**[Портфолио](https://shalombaby666.github.io/) · [Резюме](https://shalombaby666.github.io/resume.html) · [PDF](https://shalombaby666.github.io/denis-resume.pdf) · [Telegram @shalombaby777](https://t.me/shalombaby777)**
 
-`Python` `Java` `SQL` `JavaScript / TypeScript`
+Работаю с **SQL, базами данных, Python/pandas и Яндекс DataLens**. Также использую **Java, C#, HTML и CSS**. Завершил курсы HTML/CSS. В учебных работах — R, dplyr и ggplot2.
 
-### Во что можно зайти прямо сейчас
+### Кейсы
 
-| Мир | Что исследовать |
-| :--- | :--- |
-| [SandFox](https://shalombaby666.github.io/SandFox/) | Пиксельная песочница, материалы и живые ambient-сцены |
-| [Two Gamers](https://shalombaby666.github.io/two-gamers/) | Короткие аркады на двоих: крыши, кухня и гонка |
-| [Starman’s Stare](https://shalombaby666.github.io/starmans-stare/) | Планеты, спутники, космический квиз и дух личного интернета |
-| [Snow Running](https://shalombaby666.github.io/snow-running/) | Подарки, лабиринты и ледяные стены |
+| Проект | Что внутри |
+| --- | --- |
+| [AlfaHack](https://shalombaby666.github.io/#project=alfa) | Командный прототип кредитного кабинета: путь заявки, документы и правила решения |
+| [RepairCalc / SPBTechRun](https://shalombaby666.github.io/#project=repair) | Расчёт материалов и каталог. Моя роль: ML, данные и организация |
+| [Бот обращений](https://shalombaby666.github.io/#project=appeals) | Каналы, маршрутизация, ответы оператора и статусы |
+| [Учебная аналитика на R](https://shalombaby666.github.io/#project=r-sales) | Продажи по регионам, графики и сверка итогов |
+| [Учебная база заказов](https://shalombaby666.github.io/#project=sql-study) | Связи, ключи, ограничения и границы модели |
+| [Цены на нефть](https://shalombaby666.github.io/#project=oil) | Исследовательский черновик с графиками и оговорками |
 
-### Проекты за интерфейсом
+**[Все 15 проектов](https://shalombaby666.github.io/#work)** · [Шпаргалки аналитика](https://shalombaby666.github.io/analyst-notes.html)
 
-🏦 **[AlfaHack](https://shalombaby666.github.io/#project=alfa)** — командный прототип кредитного кабинета: путь заявки и объяснимое решение.
+### Можно поиграть
 
-🏗 **[RepairCalc / SPBTechRun](https://shalombaby666.github.io/#project=repair)** — расчёт материалов для ремонта и работа с каталогом. В командном README моя зона обозначена как ML, данные и организация.
+[SandFox](https://shalombaby666.github.io/SandFox/) · [Two Gamers](https://shalombaby666.github.io/two-gamers/) · [Starman’s Stare](https://shalombaby666.github.io/starmans-stare/) · [Snow Running](https://shalombaby666.github.io/snow-running/)
 
-🔎 **[Проверка выгрузки](https://shalombaby666.github.io/#project=quality)** — поиск проблем в CSV/Excel перед отчётом или загрузкой данных.
-
-🔗 **[Двойник](https://shalombaby666.github.io/#project=bridge)** — интеграция Telegram и MAX.
-
-🌱 **[Все 11 проектов](https://shalombaby666.github.io/#work)** — также Sprouts, География Европы и Минправ.
-
-### У каждого проекта свой характер
-
-Мой пиксельный герой играет на гитаре, кормит кота и иногда забывает вложение. Его можно встретить [в отдельной истории](https://shalombaby666.github.io/character-world.html) и [будущих маршрутах по Петербургу и Оренбургу](https://shalombaby666.github.io/cities.html).
+Мой пиксельный герой живёт [в отдельной истории](https://shalombaby666.github.io/character-world.html) и [будущих маршрутах по Петербургу и Оренбургу](https://shalombaby666.github.io/cities.html).
 
 ---
 
-Показываю демонстрации и решения. Исходники закрытых проектов остаются приватными. Для командных работ отдельно описывается результат команды; личные детали и сертификаты будут дополняться после подтверждения.
+Показываю выбранные материалы и демонстрации. Исходники закрытых проектов остаются приватными; в командных кейсах отдельно отмечаю свою роль. Подтверждённые сертификаты добавлю позже.
