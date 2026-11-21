@@ -1,34 +1,47 @@
-<p><a href="https://shalombaby666.github.io/resume.html"><img src="https://shalombaby666.github.io/assets/resume-button.svg" alt="Открыть резюме Дениса Петрова — бизнес-аналитик" width="268" height="56"></a></p>
+<a href="https://shalombaby666.github.io/"><img src="https://shalombaby666.github.io/assets/profile-banner.png?v=profile2" alt="Денис Петров — бизнес-аналитик. SQL, Python, DataLens, Loginom. Английский B2." width="1200"></a>
 
-<a href="https://shalombaby666.github.io/"><img src="https://shalombaby666.github.io/assets/profile-banner.png?v=navprint1" alt="Денис Петров — бизнес-аналитик" width="1200"></a>
+<p>
+<a href="https://shalombaby666.github.io/"><img src="https://shalombaby666.github.io/assets/profile-site-button.svg?v=profile2" alt="Открыть сайт-портфолио — резюме, кейсы и демонстрации" width="360" height="64"></a>
+<a href="https://shalombaby666.github.io/denis-resume.pdf"><img src="https://shalombaby666.github.io/assets/profile-pdf-button.svg?v=profile2" alt="Резюме PDF — одна страница для печати" width="248" height="64"></a>
+</p>
 
-### Денис Петров
+[Резюме в браузере](https://shalombaby666.github.io/resume.html) · [Выбрать формат печати](https://shalombaby666.github.io/print.html?view=resume) · [Написать в Telegram](https://t.me/shalombaby777)
 
-18 лет. Второй курс, бизнес-аналитика. Ищу первую работу бизнес-аналитиком. Анализ данных — дополнительное направление.
+### Привет, я Денис
 
-Работаю с SQL, Python/pandas и Яндекс DataLens. Также использую Java, C#, HTML и CSS. В учебных работах — R, dplyr и ggplot2.
+Мне 18, учусь на втором курсе бизнес-аналитики. Ищу первую работу бизнес-аналитиком. Анализ данных — дополнительное направление.
 
-[Портфолио](https://shalombaby666.github.io/) · [Резюме PDF](https://shalombaby666.github.io/denis-resume.pdf) · [Форматы печати](https://shalombaby666.github.io/print.html) · [Telegram @shalombaby777](https://t.me/shalombaby777)
+В портфолио собрал разборы бизнес-задач, работу с данными и командные прототипы. В каждом кейсе можно посмотреть задачу, решения, результат и то, что ещё требует проверки.
 
-### Основные проекты
+### С чего начать
 
-- [AlfaHack](https://shalombaby666.github.io/#project=alfa): командный прототип кредитной заявки, проверок и решения по правилам.
-- [RepairCalc / SPBTechRun](https://shalombaby666.github.io/#project=repair): расчёт материалов и подбор товаров. Роль в командном README: ML, данные, организация.
-- [Отток клиентов банка](https://shalombaby666.github.io/#project=churn): учебный анализ 10 000 клиентов, SQL и интерактивный дашборд.
-- [Проверка выгрузки](https://shalombaby666.github.io/#project=quality): пропуски, дубли и форматы CSV/Excel.
+- [ABC/XYZ-анализ ассортимента](https://shalombaby666.github.io/#project=abc) — 270 товаров: вклад в выручку, помесячные продажи и проверка методики классификации.
+- [RepairCalc / SPBTechRun](https://shalombaby666.github.io/#project=repair) — командный прототип расчёта материалов для ремонта. В продолжении FeedCalc — импорт каталога и проверенные сметы на тестовых товарах.
+- [AlfaHack](https://shalombaby666.github.io/#project=alfa) — командный прототип кредитного кабинета: заявка клиента, проверки и обработка сотрудником.
+- [Сверка банковских показателей](https://shalombaby666.github.io/#project=bank-audit) — семь расхождений в 28 сравнениях между листами Excel.
+- [Прогноз возврата пользователей](https://shalombaby666.github.io/#project=retention) — учебный ML-кейс: сравнение моделей, отдельная проверочная выборка и разбор ошибок.
 
-[Все 22 проекта](https://shalombaby666.github.io/#work) · [Учебные работы и доклады](https://shalombaby666.github.io/#materials)
+[Все 22 проекта на сайте →](https://shalombaby666.github.io/#work)
 
-### Сертификаты Stepik
+### Инструменты и языки
 
-- [«Поколение Python»: курс для начинающих](https://stepik.org/cert/2984626)
-- [«Поколение Python»: курс для продвинутых](https://stepik.org/cert/3047527)
-- [Интерактивный тренажёр по SQL](https://stepik.org/cert/3074248)
+SQL и базы данных · Python / pandas · Яндекс DataLens · Loginom.
 
-### Браузерные проекты и Roblox
+В учебных работах использовал R, dplyr и ggplot2. Также работал с Java, C#, HTML и CSS; браузерные проекты есть на JavaScript / TypeScript.
 
-[SandFox](https://shalombaby666.github.io/SandFox/) · [Two Gamers](https://shalombaby666.github.io/two-gamers/) · [Starman’s Stare](https://shalombaby666.github.io/starmans-stare/) · [Snow Running](https://shalombaby666.github.io/snow-running/)
+Английский — B2, Upper Intermediate.
 
-[Тыквенный приют](https://shalombaby666.github.io/#project=pumpkin) и [Пепельные земли](https://shalombaby666.github.io/#project=ashlands) — незавершённые Roblox-наработки.
+### Обучение
 
-Исходники закрытых проектов остаются приватными. Командные результаты и личная роль отмечены отдельно.
+Сертификаты Stepik: [Python для начинающих](https://stepik.org/cert/2984626), [продвинутый Python](https://stepik.org/cert/3047527), [тренажёр по SQL](https://stepik.org/cert/3074248).
+
+[Учебные работы и доклады](https://shalombaby666.github.io/#materials) · [Сертификаты на сайте](https://shalombaby666.github.io/#certificates)
+
+<details>
+<summary>Ещё делаю небольшие игры</summary>
+
+[Snow Running](https://shalombaby666.github.io/snow-running/) — лабиринты, лёд, преследование и сквозные туннели. [Two Gamers](https://shalombaby666.github.io/two-gamers/) — три игры вдвоём за одним устройством. [SandFox](https://shalombaby666.github.io/SandFox/) — песочница с материалами.
+
+</details>
+
+Если у вас есть стажировка, младшая позиция или вопрос по проекту — [напишите мне в Telegram](https://t.me/shalombaby777).
