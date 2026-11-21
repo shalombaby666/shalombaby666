@@ -1,8 +1,10 @@
-<a href="https://shalombaby666.github.io/"><img src="https://shalombaby666.github.io/assets/profile-banner.png?v=navprint1" alt="Денис Петров — аналитика данных и систем" width="1200"></a>
+<p><a href="https://shalombaby666.github.io/resume.html"><img src="https://shalombaby666.github.io/assets/resume-button.svg" alt="Открыть резюме Дениса Петрова — бизнес-аналитик" width="268" height="56"></a></p>
+
+<a href="https://shalombaby666.github.io/"><img src="https://shalombaby666.github.io/assets/profile-banner.png?v=navprint1" alt="Денис Петров — бизнес-аналитик" width="1200"></a>
 
 ### Денис Петров
 
-18 лет. Второй курс, бизнес-аналитика. Ищу первую работу аналитиком данных или системным аналитиком.
+18 лет. Второй курс, бизнес-аналитика. Ищу первую работу бизнес-аналитиком. Анализ данных — дополнительное направление.
 
 Работаю с SQL, Python/pandas и Яндекс DataLens. Также использую Java, C#, HTML и CSS. В учебных работах — R, dplyr и ggplot2.
 
@@ -15,7 +17,7 @@
 - [Отток клиентов банка](https://shalombaby666.github.io/#project=churn): учебный анализ 10 000 клиентов, SQL и интерактивный дашборд.
 - [Проверка выгрузки](https://shalombaby666.github.io/#project=quality): пропуски, дубли и форматы CSV/Excel.
 
-[Все 18 проектов](https://shalombaby666.github.io/#work) · [Учебные работы и доклады](https://shalombaby666.github.io/#materials)
+[Все 22 проекта](https://shalombaby666.github.io/#work) · [Учебные работы и доклады](https://shalombaby666.github.io/#materials)
 
 ### Сертификаты Stepik
 
