@@ -5,7 +5,7 @@
 <a href="https://shalombaby666.github.io/denis-resume.pdf"><img src="https://shalombaby666.github.io/assets/profile-pdf-button.svg?v=profile2" alt="Резюме PDF — одна страница для печати" width="248" height="64"></a>
 </p>
 
-[Резюме в браузере](https://shalombaby666.github.io/resume.html) · [Одноколоночное резюме](https://shalombaby666.github.io/resume-simple.html) · [Выбрать формат печати](https://shalombaby666.github.io/print.html?view=resume) · [Написать в Telegram](https://t.me/shalombaby777)
+[Резюме в браузере](https://shalombaby666.github.io/resume.html) · [Скачать Word (.docx)](https://shalombaby666.github.io/denis-resume.docx) · [Одноколоночное резюме](https://shalombaby666.github.io/resume-simple.html) · [Выбрать формат печати](https://shalombaby666.github.io/print.html?view=resume) · [Написать в Telegram](https://t.me/shalombaby777)
 
 ### Привет, я Денис
 
