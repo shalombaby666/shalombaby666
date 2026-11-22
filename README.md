@@ -5,11 +5,11 @@
 <a href="https://shalombaby666.github.io/denis-resume.pdf"><img src="https://shalombaby666.github.io/assets/profile-pdf-button.svg?v=profile2" alt="Резюме PDF — одна страница для печати" width="248" height="64"></a>
 </p>
 
-[Резюме в браузере](https://shalombaby666.github.io/resume.html) · [Выбрать формат печати](https://shalombaby666.github.io/print.html?view=resume) · [Написать в Telegram](https://t.me/shalombaby777)
+[Резюме в браузере](https://shalombaby666.github.io/resume.html) · [Одноколоночное резюме](https://shalombaby666.github.io/resume-simple.html) · [Выбрать формат печати](https://shalombaby666.github.io/print.html?view=resume) · [Написать в Telegram](https://t.me/shalombaby777)
 
 ### Привет, я Денис
 
-Мне 18, учусь на втором курсе бизнес-аналитики. Ищу первую работу бизнес-аналитиком. Анализ данных — дополнительное направление.
+Мне 18, учусь на втором курсе бизнес-аналитики. Ищу стажировку или первую работу бизнес-аналитиком. Был капитаном команды на двух хакатонах. Староста группы: организую работу группы и взаимодействие с преподавателями.
 
 В портфолио собрал разборы бизнес-задач, работу с данными и командные прототипы. В каждом кейсе можно посмотреть задачу, решения, результат и то, что ещё требует проверки.
 
@@ -17,7 +17,7 @@
 
 - [ABC/XYZ-анализ ассортимента](https://shalombaby666.github.io/#project=abc) — 270 товаров: вклад в выручку, помесячные продажи и проверка методики классификации.
 - [RepairCalc / SPBTechRun](https://shalombaby666.github.io/#project=repair) — командный прототип расчёта материалов для ремонта. В продолжении FeedCalc — импорт каталога и проверенные сметы на тестовых товарах.
-- [AlfaHack](https://shalombaby666.github.io/#project=alfa) — командный прототип кредитного кабинета: заявка клиента, проверки и обработка сотрудником.
+- [AlfaHack](https://shalombaby666.github.io/#project=alfa) — командный прототип кредитного кабинета: заявка клиента, проверки и обработка сотрудником. Разрабатывал ML-модель и бэкенд сайта.
 - [Сверка банковских показателей](https://shalombaby666.github.io/#project=bank-audit) — семь расхождений в 28 сравнениях между листами Excel.
 - [Прогноз возврата пользователей](https://shalombaby666.github.io/#project=retention) — учебный ML-кейс: сравнение моделей, отдельная проверочная выборка и разбор ошибок.
 
@@ -27,7 +27,7 @@
 
 SQL и базы данных · Python / pandas · Яндекс DataLens · Loginom.
 
-В учебных работах использовал R, dplyr и ggplot2. Также работал с Java, C#, HTML и CSS; браузерные проекты есть на JavaScript / TypeScript.
+В учебных работах использовал R, dplyr и ggplot2. SQL, Python, HTML и CSS — хороший уровень; Java и C# — рабочий уровень, практики меньше. Браузерные проекты есть на JavaScript / TypeScript.
 
 Английский — B2, Upper Intermediate.
 
